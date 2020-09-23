@@ -1,6 +1,6 @@
 # Exercise 6
 
-## Dynamic ListView _ContextMenu__
+## Dynamic ListView *_ContextMenu_*
 <table>
   <tr>
     <td><img src="./.images/i1.png" width=300 height=240></td>
